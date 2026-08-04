@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing football.
 - 🌱 I’m currently learning matlab and sensors.
 - 💞️ I’m looking to collaborate on the artificial intelligence manufcturing.
-- 📫 How to reach me ... contact me using the e-mail: cityman006@nuaa.edu.cn
+- 📫 How to reach me ... contact me using the e-mail: taochen@nottingham.ac.uk
 
 <!---
 cityman006/cityman006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
