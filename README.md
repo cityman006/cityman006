@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cityman006
 - 👀 I’m interested in playing football.
-- 🌱 I’m currently learning matlab and sensors.
+- 🌱 I’m currently learning AI-driven manufacturing.
 - 💞️ I’m looking to collaborate on the artificial intelligence manufcturing.
 - 📫 How to reach me ... contact me using the e-mail: taochen@nottingham.ac.uk
 
